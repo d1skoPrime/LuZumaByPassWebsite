@@ -74,9 +74,9 @@ export default function App() {
                     isDark ? "text-slate-300" : "text-slate-700"
                   }`}
                 >
-                  Have you ever been in such situation, when you wanted to go class with your friends during office
-                  hours but couldn't because you were invited to somewhere else? Or when you want to sign up for
-                  Enrichment class (only with scholar Badge), or your grade level or something else doesn't let you sign
+                  Have you ever been in such situation, when you wanted to go to class with your friends during office
+                  hours but couldn't because you were invited to somewhere else? Or when you wanted to sign up for
+                  Enrichment class (only with scholar Badge), or your grade level or something else didn't let you sign
                   up for certain class?
                 </p>
 
