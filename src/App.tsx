@@ -6,7 +6,7 @@ export default function App() {
   const [isDark, setIsDark] = useState(true)
 
   const textMeLink = () => {
-    window.location.href = "https://www.instagram.com/itsroman_25/"
+    window.location.href = "https://www.instagram.com/glow.erax/"
   }
 
   const toggleTheme = () => setIsDark(!isDark)
